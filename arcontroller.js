@@ -331,7 +331,7 @@ window.addEventListener('load', function() {
                 case 'ar_button_five':
                 case 'ar_button_six':
                 case 'ar_button_seven':
-                  window.open('http://www.google.com','_blank');
+                  window.open('https://rabimba.github.io/bdeath','_blank');
 
                   request.send();
                 break;
